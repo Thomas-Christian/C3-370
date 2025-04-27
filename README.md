@@ -7,7 +7,7 @@ I was provided with starter code including:
 - Helper functions to visualize the maze and test the model
 - The structure of the neural network model
 
-I was taked with implementing the deep Q-learning algorithm in the `qtrain` function, which included:
+I was tasked with implementing the deep Q-learning algorithm in the `qtrain` function, which included:
 - Implementing the exploration vs. exploitation strategy using epsilon
 - Creating the training loop for the agent to learn from experience
 - Building the logic for updating the Q-values based on rewards
