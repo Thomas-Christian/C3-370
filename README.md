@@ -43,4 +43,4 @@ While this project is a simulation, it highlights important ethical consideratio
 In professional applications, these ethical considerations become even more critical as AI systems make decisions that impact people's lives, resources, or safety. Computer scientists must design systems that are not only technically sound but also fair, transparent, and aligned with human values.
 
 ### Conclusion
-This project demonstrated how reinforcement learning techniques can create intelligent agents capable of solving complex navigation problems. The skills developed here e.g implementing neural networks, designing reward systems, and balancing exploration versus exploitation, are foundational to many advanced applications in artificial intelligence and computer science more broadly.
+This project demonstrated how reinforcement learning techniques can create intelligent agents capable of solving complex navigation problems. The skills developed here e.g implementing neural networks, designing reward systems, and balancing exploration versus exploitation, are foundational to many advanced applications in artificial intelligence and computer science as a whole.
